@@ -7,6 +7,7 @@ filetypes = {
     "PNG": ".png",
     "Text Documents": ".txt",
     "PDF": ".pdf",
+    "Sony Raw Camera Files": ".arw",
 }
 
 
